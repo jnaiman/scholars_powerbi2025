@@ -18,6 +18,8 @@ some practical and hands-on data visualization and analysis.
 
 Prior to the workshop, please install Excel locally on your computer.
 
+See link to <a href="{{site.baseurl}}/module01/lecture1p0.html">lecture slides for how to install linked here</a>.
+
 ## Modules
 
 This workshop will be conducted in four main Modules.
