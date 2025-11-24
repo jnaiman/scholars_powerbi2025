@@ -1,12 +1,12 @@
 ---
 layout: week
-icon: undraw_all-the-data_5lil.svg
+icon: undraw_team-collaboration_phnf.svg
 visible: true
 ---
 
-# TBD
+# Where to go from here
 
 
-### TBD
+### Optional Reading and Materials, Extra Resources
 
 
