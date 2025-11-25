@@ -1,6 +1,10 @@
 ---
 title: Lecture 2.1 - Good & Bad Visualization Design
 layout: lecture
+tags:
+  - data viz
+  - concepts
+  - overview
 description: >-
   Design choices when making visualizations.
 date: 2025-10-09
@@ -66,11 +70,11 @@ first, let's understand how humans actually translate different kinds of visuals
 </tr>
 </table>
 
-Check out [sc2.ncsu.edu/faculty/healey/PP](sc2.ncsu.edu/faculty/healey/PP) for more examples and research.
+Check out [csc2.ncsu.edu/faculty/healey/PP](https://www.csc2.ncsu.edu/faculty/healey/PP) for more examples and research.
 
 notes:
 
-so this is a bit of a repeat of things covered in IS445, the Data Viz class for those who have taken it or plan on taking it, but at a very basic level -- there are different kinds of "channels" through which humans can perceive representations of data
+so in my data viz class we take a week or 2 to cover this so we'll only do a brief overview, but at a very basic level -- there are different kinds of "channels" through which humans can perceive representations of data
 
 some of these channels are more/less effective at conveying information -- which of these "pop out" the most to you?
 
@@ -89,7 +93,7 @@ Which image has the red dot?
  <img src="https://www.csc2.ncsu.edu/faculty/healey/PP/figs/colour_P.gif">
 </div>
 
-Check out [sc2.ncsu.edu/faculty/healey/PP](sc2.ncsu.edu/faculty/healey/PP) for more examples and research.
+Check out [csc2.ncsu.edu/faculty/healey/PP](https://www.csc2.ncsu.edu/faculty/healey/PP) for more examples and research.
 
 
 notes:
@@ -411,7 +415,7 @@ for example the blue background here was not adding any useful information, same
 
 <img src="https://i.ytimg.com/vi/JIMUzJzqaA8/maxresdefault.jpg">
 
-See Knaflic Chapters 3-5 (& Chapter 9 for case studies).
+[Storytelling with Data: A Data Visualization Guide for Business Professionals](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q00vor/cdi_askewsholts_vlebooks_9781119002062) by Knaflic is a great resource for more info.
 
 notes:
 there will be more examples of this as you go through the reading, 
