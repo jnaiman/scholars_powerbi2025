@@ -6,6 +6,10 @@ visible: true
 
 # Introduction This Workshop
 
+This module covers an introduction to this workshop along with an intro to your instructor.  
+
+We'll also cover basic setup (which was hopefully completed before the workshop).
+
 
 ### Optional Materials and Resources
 1. Who is [your instructor](https://www.astronaiman.com/) anyway? 
