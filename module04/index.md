@@ -2,6 +2,7 @@
 layout: week
 icon: undraw_data-reports_uylc.svg
 visible: true
+notitle: true
 ---
 
 # More with PowerBI & PowerQuery

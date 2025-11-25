@@ -2,6 +2,7 @@
 layout: week
 icon: undraw_all-the-data_5lil.svg
 visible: true
+notitle: true
 ---
 
 # Data Viz Basics

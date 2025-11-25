@@ -3,9 +3,9 @@ title: Lecture 1.1 - Introduction to this Workshop
 layout: lecture
 tags:
   - overview
-  - concepts
+  - introduction
 description: >-
-  The syllabus for the course, and an overview of course policies and materials.
+  Overview of workshop and info about your instructor.
 date: 2025-08-28
 ---
 

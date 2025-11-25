@@ -2,6 +2,7 @@
 layout: week
 icon: undraw_data_0ml2.svg
 visible: true
+notitle: true
 ---
 
 # Getting Started with PowerBI

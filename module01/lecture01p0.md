@@ -1,6 +1,8 @@
 ---
 title: Lecture 1.0 - Excel Setup
 layout: lecture
+tags:
+  - installations
 description: >-
   Get ready to use Excel and PowerQuery (pre-workshop).
 date: 2025-09-25
