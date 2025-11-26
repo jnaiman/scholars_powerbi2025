@@ -21,7 +21,7 @@ examples:
     link: https://app.fabric.microsoft.com/home?experience=power-bi
 ---
 
-# Introduction This Workshop
+# Introduction to this Workshop
 
 This module covers an introduction to this workshop along with an intro to your instructor.  
 
