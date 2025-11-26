@@ -3,6 +3,18 @@ layout: week
 icon: undraw_data_0ml2.svg
 visible: true
 notitle: true
+examples:
+  - filename: powerbi
+    type: iodide
+    title: Link to online PowerBI version
+    description: Access the online PowerBI version with your Illinois account.
+    link: https://app.fabric.microsoft.com/home?experience=power-bi
+data:
+  - filename: corgs_per_country_over_time_columns_2020.csv
+    type: dataLink
+    title: Corgis per country over time 
+    description: This dataset is from the <a href="http://cardiped.net/">Cardigan Archives</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/grabCorgData_subpages.py">scraped using Beautiful Soup in Python</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/calc_corgData.ipynb">further processed in Python</a> into this form.
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/corgs_per_country_over_time_columns_2020.csv
 ---
 
 # Getting Started with PowerBI
@@ -14,4 +26,3 @@ notitle: true
 2. <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview">Microsoft's PowerBI overview</a> 
 3. <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi">Microsoft's Getting Started with PowerBI</a> 
 4. <a href="https://learn.microsoft.com/en-us/training/browse/?products=power-bi">Microsoft's PowerBI training</a>
-

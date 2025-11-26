@@ -32,6 +32,14 @@ Then click on the "Google Apps @ Illinois" button so the "ON" portion is green:
 
 More documentation [can be found here](https://help.uillinois.edu/TDClient/42/UIUC/Requests/ServiceDet?ID=135).
 
+#### 3. Install the Google Chrome Browser
+
+It is highly recommended that you use the [Chrome Browser](https://www.google.com/chrome/dr/download) for our activities with PowerBI.
+
+#### 4. Check you can access PowerBI
+
+Using [this link to the online PowerBI version](https://app.fabric.microsoft.com/home?experience=power-bi) make sure you are able to access with your @illinois.edu account.
+
 ## Modules
 
 This workshop will be conducted in several main Modules.
