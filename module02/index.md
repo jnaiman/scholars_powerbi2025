@@ -3,6 +3,17 @@ layout: week
 icon: undraw_all-the-data_5lil.svg
 visible: true
 notitle: true
+examples:
+  - filename: datatoviz
+    type: iodide
+    title: Link to the Data Viz Picker
+    description: Advice for picking the right visualization for you data.
+    link: https://www.data-to-viz.com/#spider
+  - filename: vizcaveats
+    type: iodide
+    title: Link to Data Viz Caveats
+    description: Caveats for each type of viz.
+    link: https://www.data-to-viz.com/caveats.html
 ---
 
 # Data Viz Basics
