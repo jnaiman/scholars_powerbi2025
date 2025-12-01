@@ -23,7 +23,17 @@ See link to <a href="{{site.baseurl}}/module01/lecture1p0.html">lecture slides f
 
 Additionally, be sure you are signed in to your @illinois.edu account online ([https://outlook.office365.com/](https://outlook.office365.com/)) for accessing all links/materials.
 
-#### 2. Turn on your Google Access with your @illinois.edu account
+#### 2. Install the Google Chrome Browser
+
+It is highly recommended that you use the [Chrome Browser](https://www.google.com/chrome/dr/download) for our activities with PowerBI.
+
+#### 3. Check you can access PowerBI
+
+Using [this link to the online PowerBI version](https://app.fabric.microsoft.com/home?experience=power-bi) make sure you are able to access with your @illinois.edu account.
+
+#### 4. (OPTIONAL) Turn on your Google Access with your @illinois.edu account
+
+This next part may or may not work, depending on how your @illinois.edu account is set up.
 
 First, go to the [linking dashboard](https://cloud-dashboard.illinois.edu/cbdash/).  You will be prompted to choose your campus and likely asked to sign in.
 
@@ -31,14 +41,6 @@ Then click on the "Google Apps @ Illinois" button so the "ON" portion is green:
 <img src="{{site.baseurl}}/module01/images/googledocsUse.png" width="60%">
 
 More documentation [can be found here](https://help.uillinois.edu/TDClient/42/UIUC/Requests/ServiceDet?ID=135).
-
-#### 3. Install the Google Chrome Browser
-
-It is highly recommended that you use the [Chrome Browser](https://www.google.com/chrome/dr/download) for our activities with PowerBI.
-
-#### 4. Check you can access PowerBI
-
-Using [this link to the online PowerBI version](https://app.fabric.microsoft.com/home?experience=power-bi) make sure you are able to access with your @illinois.edu account.
 
 ## Modules
 
@@ -65,6 +67,6 @@ table th:nth-of-type(3) {
 -------|-------------------|---------
 | <a href="{{site.baseurl}}/module01">Module 1</a> | Introduction to this workshop | 0. <a href="https://webstore.illinois.edu/shop/product.aspx?zpid=2816">Install Excel through the Illinois Webstore</a> (do this pre-workshop!) <br> 1. Who is [your instructor](https://www.astronaiman.com/) anyway? <br> 2. <a href="https://clauswilke.com/dataviz/">Fundamentals of Data Visualization by Claus O. Wilke</a> <br> 3. <a href="https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914/ref=sr_1_2?crid=1WC409BVX1489&keywords=visualization+analysis+and+design&qid=1580082878&sprefix=visualization%2Caps%2C158&sr=8-2">Visualization Analysis & Design, Tamara Munzner</a>. Many concepts found on [the books webpage](https://www.cs.ubc.ca/~tmm/vadbook/) and the [associated lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides).
 | <a href="{{site.baseurl}}/module02">Module 2</a> | Data Viz Basics | 1. <a href="https://www.csc2.ncsu.edu/faculty/healey/PP/">Perception in Visualization</a> <br> 2. <a href="https://www.data-to-viz.com/#spider">The Data Viz Picker</a> <br> 3. <a href="https://www.data-to-viz.com/caveats.html">Data Viz Caveats</a> <br> 4. <a href="https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q00vor/cdi_askewsholts_vlebooks_9781119002062">Storytelling with Data: A Data Visualization Guide for Business Professionals</a> by Knaflic (available via UIUC library).
-| <a href="{{site.baseurl}}/module03">Module 3</a> | Getting Started with PowerBI | 1. PowerBI Walkthrough 1 -- <a href="https://docs.google.com/document/d/1xfMojST2I-l7-UDvAouXrgoEV78QDFyvQ-I1d_ZzPVY/edit?usp=sharing">Google Doc</a> (be sure you're using your @illinois.edu account) & <a href="https://mediaspace.illinois.edu/media/t/1_po8z25n4/394597573">MediaSpace Video</a> (be sure you have created and are signed into your MediaSpace account) <br> 2. <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview">Microsoft's PowerBI overview</a> <br> 3. <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi">Microsoft's Getting Started with PowerBI</a> <br> 4. <a href="https://learn.microsoft.com/en-us/training/browse/?products=power-bi">Microsoft's PowerBI training</a>
+| <a href="{{site.baseurl}}/module03">Module 3</a> | Getting Started with PowerBI | 1. PowerBI Walkthrough 1 -- <a href="https://docs.google.com/document/d/1xfMojST2I-l7-UDvAouXrgoEV78QDFyvQ-I1d_ZzPVY/edit?usp=sharing">Google Doc</a> (be sure you're using your @illinois.edu account) OR <a href="">PDF version</a>(click on "More" at bottom to see more) & <a href="https://mediaspace.illinois.edu/media/t/1_po8z25n4/394597573">MediaSpace Video</a> (be sure you have created and are signed into your MediaSpace account) <br> 2. <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview">Microsoft's PowerBI overview</a> <br> 3. <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi">Microsoft's Getting Started with PowerBI</a> <br> 4. <a href="https://learn.microsoft.com/en-us/training/browse/?products=power-bi">Microsoft's PowerBI training</a>
 | <a href="{{site.baseurl}}/module04">Module 4</a> | More with PowerBI & PowerQuery | 1. Walkthrough 2 -- <a href="https://docs.google.com/document/d/1w1dl9y5-yoa4V3mUw6PC3OJSmcoa8vcfbs9q3fV3pnA/edit?usp=sharing">Google Doc</a> & <a href="https://mediaspace.illinois.edu/media/t/1_po8z25n4/394597573?st=1359">MediaSpace Video</a> <br> 2. Walkthrough 3 -- <a href="https://docs.google.com/document/d/195XTNmFAxPspCuP_xFSVE3WTAWV1UVPYibp-EQGS-L0/edit?usp=sharing">Google Doc</a> & <a href="https://mediaspace.illinois.edu/media/t/1_6oc0l2px/394597573">MediaSpace Video</a> <br> 3. <a href="https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query">Microsoft's intro to PowerQuery</a>
 | <a href="{{site.baseurl}}/module05">Module 5</a> | Where to go from here | 1. Where to go from here resources: TBD
