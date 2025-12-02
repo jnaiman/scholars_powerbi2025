@@ -3,6 +3,27 @@ layout: week
 icon: undraw_data-reports_uylc.svg
 visible: true
 notitle: true
+examples:
+  - filename: w2pdf
+    type: iodide
+    title: Walkthrough 2 (PDF version)
+    description: Access the walkthrough 2 as a PDF.
+    link: https://github.com/jnaiman/scholars_powerbi2025/blob/main/assets/pdfs/PowerBI%20Walkthrough%20%232%20--%20Beginning%20Interactivity%20(original%20dataset).pdf
+  - filename: w2html
+    type: webpage
+    title: Walkthrough 2 (HTML version)
+    description: Access the walkthrough 2 as a webpage.
+    link: walkthrough2/PowerBIWalkthrough2BeginningInteractivity_ori.html
+  - filename: w3pdf
+    type: iodide
+    title: Walkthrough 3 (PDF version)
+    description: Access the walkthrough 3 as a PDF.
+    link: https://github.com/jnaiman/scholars_powerbi2025/blob/main/assets/pdfs/PowerBI%20Walkthrough%20%233%20--%20Formatting%20Data%20for%20Better%20Viz.pdf
+  - filename: w2html
+    type: webpage
+    title: Walkthrough 3 (HTML version)
+    description: Access the walkthrough 3 as a webpage.
+    link: walkthrough3/PowerBIWalkthrough3FormattingDataforBetterViz.html
 ---
 
 # More with PowerBI & PowerQuery
