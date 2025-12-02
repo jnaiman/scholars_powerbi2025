@@ -12,8 +12,6 @@ visualization "best practices" and where things can "go wrong" with data viz.
 We will apply the <a href="https://app.powerbi.com/">PowerBI</a> tool for 
 some practical and hands-on data visualization and analysis.
 
-**Note on 11/24/2025 -- More details and materials to be filled in over the next few days**
-
 ## Prerequisites: Highly suggested pre-installation
 
 #### 1. Install Excel
