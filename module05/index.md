@@ -10,4 +10,4 @@ notitle: true
 
 ### Optional Reading and Materials, Extra Resources
 
-
+Please see the Lecture for links.
