@@ -9,16 +9,16 @@ examples:
     title: Install Excel through Webstore
     description: Get Excel for your Computer
     link: https://webstore.illinois.edu/shop/product.aspx?zpid=2816
-  - filename: TurnOnGoogle
-    type: iodide
-    title: Turn on Google Apps
-    description: Turn on your google apps with your @illinois email
-    link: https://cloud-dashboard.illinois.edu/cbdash/
   - filename: powerbi
     type: iodide
     title: Link to online PowerBI version
     description: Access the online PowerBI version with your Illinois account.
     link: https://app.fabric.microsoft.com/home?experience=power-bi
+  - filename: TurnOnGoogle
+    type: iodide
+    title: Turn on Google Apps (Optional)
+    description: Turn on your google apps with your @illinois email
+    link: https://cloud-dashboard.illinois.edu/cbdash/
 ---
 
 # Introduction to this Workshop
