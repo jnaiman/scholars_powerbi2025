@@ -20,6 +20,7 @@ You'll start by downloading (and re-uploading to your own PowerBI workspace) one
 
 Note that these increase in complexity -- Level 1 will be the easiest to remake, and Level 3 will be the most complex (and likely require downloading and formatting the data on your own).  Feel free to use whichever "Level" you feel the most comfortable with!
 
+**Please ignore any instructions in the PBIX files that talk about submitting things!  This was for an older version of this material.**
  
 
 For this activity, you want to:
