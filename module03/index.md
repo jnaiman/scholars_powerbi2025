@@ -19,6 +19,16 @@ examples:
     title: Walkthrough 1 (HTML version)
     description: Access the walkthrough 1 as a webpage.
     link: walkthrough1/PowerBIWalkthrough1BasicBarChart.html
+  - filename: w2pdf
+    type: iodide
+    title: Walkthrough 2 (PDF version)
+    description: Access the walkthrough 2 as a PDF.
+    link: https://github.com/jnaiman/scholars_powerbi2025/blob/main/assets/pdfs/PowerBI%20Walkthrough%20%232%20--%20Beginning%20Interactivity%20(original%20dataset).pdf
+  - filename: w2html
+    type: webpage
+    title: Walkthrough 2 (HTML version)
+    description: Access the walkthrough 2 as a webpage.
+    link: walkthrough2/PowerBIWalkthrough2BeginningInteractivity_ori.html
 data:
   - filename: corgs_per_country_over_time_columns_2020.csv
     type: dataLink
@@ -36,3 +46,4 @@ data:
 2. <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview">Microsoft's PowerBI overview</a>
 3. <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi">Microsoft's Getting Started with PowerBI</a> 
 4. <a href="https://learn.microsoft.com/en-us/training/browse/?products=power-bi">Microsoft's PowerBI training</a>
+5. Walkthrough 2 -- <a href="https://docs.google.com/document/d/1w1dl9y5-yoa4V3mUw6PC3OJSmcoa8vcfbs9q3fV3pnA/edit?usp=sharing">Google Doc</a> OR <a href="https://github.com/jnaiman/scholars_powerbi2025/blob/main/assets/pdfs/PowerBI%20Walkthrough%20%232%20--%20Beginning%20Interactivity%20(original%20dataset).pdf">PDF version</a> OR <a href="{{site.baseurl}}/assets/webpages/walkthrough2/PowerBIWalkthrough2BeginningInteractivity_ori.html">HTML webpage version</a> & <a href="https://mediaspace.illinois.edu/media/t/1_po8z25n4/394597573?st=1359">MediaSpace Video</a> 
