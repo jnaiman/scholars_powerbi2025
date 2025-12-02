@@ -72,18 +72,7 @@ layout: default
             {% endfor %}
             <hr/>
             <div class="columns">
-            {% for assignment in assignments %}
-            <div class="column has-text-centered">
-                <div>
-                    <p>
-                        <span class="icon is-large"><i class="fas fa-2x fa-pencil-ruler"></i></span>
-                    </p>
-                    <p>
-                        <a href="{{assignment.url | relative_url }}">{{ assignment.title }}</a>
-                    </p>
-                </div>
-            </div>
-            {% endfor %} <!-- end of looping over assignments -->
+
             {% for example in f.examples %}
             {% unless example.filename contains "2019" %}
             {% unless example.filename contains "spring2021" %}
@@ -182,6 +171,19 @@ layout: default
             </div>
         </div>
         {% endfor %}
+
+            {% for assignment in assignments %}
+            <div class="column has-text-centered">
+                <div>
+                    <p>
+                        <span class="icon is-large"><i class="fas fa-2x fa-pencil-ruler"></i></span>
+                    </p>
+                    <p>
+                        <a href="{{assignment.url | relative_url }}">{{ assignment.title }}</a>
+                    </p>
+                </div>
+            </div>
+            {% endfor %} <!-- end of looping over assignments -->
 	
      </div>
         
