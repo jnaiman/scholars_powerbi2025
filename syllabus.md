@@ -79,3 +79,5 @@ Translation for materials on this website using Google Translate has not been te
 Some notes:
 1. Translation of lecture slides is somewhat supported, however you may need to play with the zoom in/out on your browser to see slides with larger images/text
 2. For some of the external links, like the [Data-to-Viz Viz-Picker](https://www.data-to-viz.com/#spider) not all elements will render from the "base" webpage.  For example if you click on the "histogram" bubble icon on this page, nothing will pop up when using Google Translate, so your best bet is to start from the non-translated version and then click on the histogram bubble, and then click on the last link called "See the dedicated page." and then render the full histogram page that pops up (for example: [https://www.data-to-viz.com/graph/histogram.html](https://www.data-to-viz.com/graph/histogram.html).)
+
+We will go over this in the workshop as well!

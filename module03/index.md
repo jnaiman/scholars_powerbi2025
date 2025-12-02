@@ -9,6 +9,16 @@ examples:
     title: Link to online PowerBI version
     description: Access the online PowerBI version with your Illinois account.
     link: https://app.fabric.microsoft.com/home?experience=power-bi
+  - filename: w1pdf
+    type: iodide
+    title: Walkthrough 1 (PDF version)
+    description: Access the walkthrough 1 as a PDF.
+    link: https://github.com/jnaiman/scholars_powerbi2025/blob/main/assets/pdfs/PowerBI%20Walkthrough%20%231%20--%20Basic%20Bar%20Chart.pdf
+  - filename: w1html
+    type: webpage
+    title: Walkthrough 1 (HTML version)
+    description: Access the walkthrough 1 as a webpage.
+    link: walkthrough1/PowerBIWalkthrough1BasicBarChart.html
 data:
   - filename: corgs_per_country_over_time_columns_2020.csv
     type: dataLink
