@@ -121,6 +121,17 @@ The trick for tutorials/videos is to search for "PowerBI service" or "online-onl
 * [Enabled through your administrator](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards)
 * Shareable resources (note, not vetted)
   * example: [Webdashboard](https://webdashboard.com/)
+* Also, check out the Bad-to-Good Viz Activity for how to download .pbix files
+
+---
+
+## Sharable Viz
+
+* Share with others in your organization ([Microsoft has documentation on this](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards))
+* [Enabled through your administrator](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards)
+* Shareable resources (note, not vetted)
+  * example: [Webdashboard](https://webdashboard.com/)
+* Also, check out the Bad-to-Good Viz Activity for how to download .pbix files
 <br><br>
 
 #### Other, programming-heavy options
