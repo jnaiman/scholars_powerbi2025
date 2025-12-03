@@ -153,3 +153,11 @@ other browsers *may* work, but Firefox was a bit buggy for me
 notes:
 
 **go through both steps!!**
+
+---
+
+## Translating PDF vs. HTML version of "Walkthroughs"
+
+HTML is translatable (but not the embedded images).
+
+PDF version is downloadable and has slightly nicer formatting.
