@@ -112,3 +112,16 @@ The trick for tutorials/videos is to search for "PowerBI service" or "online-onl
 * [Enabled through your administrator](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards)
 * Shareable resources (note, not vetted)
   * example: [Webdashboard](https://webdashboard.com/)
+
+---
+
+## Sharable Viz
+
+* Share with others in your organization ([Microsoft has documentation on this](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards))
+* [Enabled through your administrator](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards)
+* Shareable resources (note, not vetted)
+  * example: [Webdashboard](https://webdashboard.com/)
+<br><br>
+
+#### Other, programming-heavy options
+* Check out some of the [online materials for IS445](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/)

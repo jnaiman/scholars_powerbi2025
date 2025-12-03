@@ -31,6 +31,9 @@ notes:
 [Google Translate for Webpages](https://translate.google.com/?sl=auto&tl=en&op=websites)
 
 notes:
+
+So you all might be more adept at doing this than I, but a few pointers just in case!
+
 **put in the URL for these slides, starting from main webpage**
 
 **show that if you click on slides, some of the formatting is gone and you might need to play with the zoom**
